@@ -1,1 +1,1 @@
-# prime_alg
+# algorithms for prime nums
